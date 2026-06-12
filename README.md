@@ -15,7 +15,7 @@
 
 **[View Dashboard 2 - Utilization & Outliers ](https://public.tableau.com/views/PharmacyDrugSpend-CaliforniaMedicarePartD/UtilizationOutliers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Dashboard Preview](images/dashboard_preview.png)
+![CA Medicare Part D Analytics.png](https://github.com/mrunalibharshankar/california-medicare-partd-analytics/blob/main/Utilization%20&%20Outliers.png?raw=true)
 
 
 ---
