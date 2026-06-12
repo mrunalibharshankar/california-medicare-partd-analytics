@@ -9,7 +9,11 @@
 ## Live Dashboard
 
 **[View Dashboard 1 - Spend Analysis ](https://public.tableau.com/views/PharmacyDrugSpend-CaliforniaMedicarePartD/CAMedicarePartDAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+
+![Dashboard Preview](images/dashboard_preview.png)
 **[View Dashboard 2 - Utilization & Outliers ](https://public.tableau.com/views/PharmacyDrugSpend-CaliforniaMedicarePartD/UtilizationOutliers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+![Dashboard Preview](images/dashboard_preview.png)
 
 
 ---
