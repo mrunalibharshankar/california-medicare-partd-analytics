@@ -10,7 +10,7 @@
 
 **[View Dashboard 1 - Spend Analysis ](https://public.tableau.com/views/PharmacyDrugSpend-CaliforniaMedicarePartD/CAMedicarePartDAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
-![Dashboard Preview](CA Medicare Part D Analytics.png)
+![CA Medicare Part D Analytics.png](https://github.com/mrunalibharshankar/california-medicare-partd-analytics/blob/main/CA%20Medicare%20Part%20D%20Analytics.png?raw=true)
 
 
 **[View Dashboard 2 - Utilization & Outliers ](https://public.tableau.com/views/PharmacyDrugSpend-CaliforniaMedicarePartD/UtilizationOutliers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
